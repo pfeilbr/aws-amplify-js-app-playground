@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "amplifyjsplayground-20181113113705-authRole",
+            "UnauthRoleArn": "arn:aws:iam::529276214230:role/amplifyjsplayground-20181113113705-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::529276214230:role/amplifyjsplayground-20181113113705-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplifyjsplayground-20181113113705-deployment",
+            "UnauthRoleName": "amplifyjsplayground-20181113113705-unauthRole",
+            "StackName": "amplifyjsplayground-20181113113705",
+            "StackId": "arn:aws:cloudformation:us-east-1:529276214230:stack/amplifyjsplayground-20181113113705/5b4e27a0-e762-11e8-bc8a-50d5ca63261e"
+        }
+    }
+}
